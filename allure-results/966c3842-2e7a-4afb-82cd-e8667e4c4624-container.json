@@ -1,0 +1,1 @@
+{"uuid":"966c3842-2e7a-4afb-82cd-e8667e4c4624","name":"com.JabatalksTest.SignUpTest","children":["758de87f-26f3-4046-b60a-83393c9d1d6b"],"befores":[],"afters":[{"name":"destroyInstance","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1652525921401,"stop":1652525921405}],"start":1652525920976,"stop":1652525921431}
